@@ -3,9 +3,9 @@ Use Functional API with tensorflow and pytorch
 
 Train image classification with this dataset: https://www.kaggle.com/datasets/thomasdubail/brain-tumors-256x256
 
-we train the image classification model with tensorflow and pytorch with the same structure.
+we train the image classification model with tensorflow and pytorch with the same architecture.
 
-we get the tensorflow model have training accuracy = 77% and validation accuracy = 72% and pytorch model with training acc = 81% and validation acc = 78% and we train faster with pytorch than tensorflow.
+we get the tensorflow model has training accuracy = 77% and validation accuracy = 72% and pytorch model with training acc = 81% and validation acc = 78% and we train faster with pytorch than tensorflow.
 
 if we want to increase the training accuracy, we can train longer or train the bigger model (in this case, we can add block_e etc)
 
